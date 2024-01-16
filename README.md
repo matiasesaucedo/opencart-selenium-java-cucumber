@@ -9,9 +9,12 @@ This repository contains files corresponding to a project developed during a QA 
 * Cucumber
 * TestNG
 
+---------------------------------------------------------------
+
 ### (ES) Sobre este repositorio
 Este repositorio contiene archivos correspondientes a un proyecto desarrollado durante un curso de QA automation. El objetivo es demostrar las herramientas que manejo, como las implemento y la aplicaciónn del Page Object Model. 
-Para su desarrollo he utilizado
+
+####Para su desarrollo he utilizado
 * Java
 * Selenium
 * Cucumber
