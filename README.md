@@ -8,6 +8,7 @@ This repository contains files corresponding to a project developed during a QA 
 * Selenium
 * Cucumber
 * TestNG
+* Maven
 
 ---------------------------------------------------------------
 
@@ -19,3 +20,4 @@ Este repositorio contiene archivos correspondientes a un proyecto desarrollado d
 * Selenium
 * Cucumber
 * TestNG
+* Maven
